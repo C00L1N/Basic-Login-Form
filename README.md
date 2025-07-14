@@ -39,3 +39,8 @@ You can also run tests in headless mode using:
 ```
 npx cypress run
 ```
+
+If you want to setup component testing, use this code:
+```
+npx cypress open --component
+```
